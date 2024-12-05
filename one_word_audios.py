@@ -9,6 +9,7 @@ def remove_one_word_audios() :
         if os.path.exists(transcription) :
             f = open(transcription, "r", encoding="utf-8")
             content = f.read()
+            ## REMOVE AUDIOS THAT HAS ONLY ONE SPACE -> ONE WORD
             if content.count(' ') == 0 :
                 print(chunk_index)
                 nbr+=1

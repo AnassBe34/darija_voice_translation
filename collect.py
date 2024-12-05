@@ -167,10 +167,10 @@ def process_videos(url_list):
                 output_file = fr'dataset\dataset_{datasets_index}\audio_chunk_{global_chunk_index}_video_end.wav'
                 text_file = fr'dataset\dataset_{datasets_index}\audio_chunk_{global_chunk_index}_video_end.txt'
             '''           
-            print('##########################################')
+            print('##############################################')
             print(f"start of the audio is {start_time}")
             print(f"end of the audio is {end_time}")
-            print('##########################################')
+            print('##############################################')
             '''
             cut_audio(input_file, output_file, start_time, end_time)
             f = open(text_file, "x", encoding="utf-8") ## utf-8 for arabic text

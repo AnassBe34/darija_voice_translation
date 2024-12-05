@@ -5,7 +5,7 @@ nbr = 0
 
 dataset_index = 0
 
-for chunk_index in range(54111) :
+for chunk_index in range(54111) : ## CHANGE IT TO YOUR MAX CHUNK_INDEX
     try :
         chunk = AudioSegment.from_file(rf'dataset\dataset_{dataset_index}\audio_chunk_{chunk_index}.wav')
     except :
