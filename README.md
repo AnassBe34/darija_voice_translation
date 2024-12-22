@@ -1,6 +1,19 @@
-# Darija Data Preprocessing
+# Darija Voice Translation
 
-Darija Data Preprocessing is a part of the Darija Speech Recognition project, designed to collect, clean, and transform raw speech data for model training. This repository handles the collection and preprocessing of data from YouTube, improving alignment and preparing it for training the speech recognition model.
+This project provides a comprehensive solution for transcribing and translating Darija (Moroccan Arabic) audio into text. It consists of two main components:
+
+## 1. Audio Transcription Model
+Uses the `Wav2Vec2-large-XLSR-53` model, a state-of-the-art model for speech recognition, to transcribe Darija audio into accurate text.
+
+## 2. Translation Model
+Leverages a fine-tuned version of `Helsinki-NLP/opus-mt-ar-en`, trained on the `None` dataset (`darija-latin-to-english-new`), to translate the transcriptions from Darija into English.
+
+## Data Collection and Preparation
+The repository includes essential tools for collecting data from YouTube videos, including audio and their corresponding transcriptions based on video timestamps. It offers scripts for cleaning, transforming, and organizing the data to make it suitable for training and fine-tuning the models.
+
+## Simple App
+A simple app is provided that enables users to upload audio files and receive both transcriptions and translations in a straightforward interface.
+
 
 ---
 
