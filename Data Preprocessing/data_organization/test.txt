@@ -1,0 +1,321 @@
+path|transcript
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1500.wav|الله مرحبا بها ذاكشي اللي بغينا احنا
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1501.wav|غاين كفاش بديتي ريسون كون كيفاش بديت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1503.wav|فيديوز كنضحك واح النهار عجبني راسي لابس
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1504.wav|الفوقيه نهار الجمعه صورت فيديو بدا طالع
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1506.wav|فشد النار كعس
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1507.wav|ناس ولد
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1508.wav|يح فوق
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1510.wav|واحد ديال البوليس
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1511.wav|راسر وقع السعه لاخ
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1512.wav|بزاف صافي و نعاودو لهم لحته ومشيت دخلت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1513.wav|للدار بالليل ح يصيفط لي ميساجات باجات
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1514.wav|اللي حينه شنو كن قل شنو كان وقع لك كنت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1515.wav|كنت صيق ديك الساعه الطوموبيل واحد الكليو
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1517.wav|وقفني بحال بدا يتنز عل خدم دي البيرمي ق
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1519.wav|هك قلت ل قالي ما كتش كتشرب الحليب انت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1520.wav|كيضحك معك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1521.wav|قلت كدير الديز عنني وهذا صافي بنادم عجبو
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1522.wav|ذاك يعني كيقولك شوف را كيدير الدييز
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1523.wav|كيفاش كيعاود لينا كيفاش كيضحك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1524.wav|وهذا الفيديو صافي انطلاقه هي هذك الفيديو
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1525.wav|اللي بديت به دونك انت كان كان الناس
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1526.wav|كانوا بوليسي كان شافك زعما بلي دري
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1527.wav|صغيران يعني ما تقدرش تسوق الطوموبيل هذا
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1528.wav|هو كبانش ما كتش كنب مادير لا مخده لا
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1529.wav|وال كندير مخده شويه
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1530.wav|المره فش كنت صق الكليو كن لا حيت انا ما
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1531.wav|كنتش معول كنت جاي الدري ويقوللي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1532.wav|اغارق وخصي نديرها تبخر من بعد كنشوف انني
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1533.wav|في الفيديو ديالك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1534.wav|وليتي تتقرب المشاهدين والناس الناس اللي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1535.wav|دايرين الدياليز مع الدراري الصغار وليت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1536.wav|كتبين الدراري صغار حى هما بحالك في نفس
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1537.wav|الوكا وليتي كتشوف الناس هما كيحاول يدي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1538.wav|بحالك زعما ماشي كيحاول يدي بحالك م
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1539.wav|كتحاول تبين لهم بلي ذاكشي راه ساهل وداز
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1540.wav|رغم رغم الصعوبات ديالهم ما كتعلم را فاش
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1541.wav|كتكون كدير الدياليز وتسالي منه راه كاين
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1542.wav|كاين شويه دي العيا وكشي ولكن ولكن الا كن
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1543.wav|انت دايره في راسك كنت داير راسك انك غ
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1544.wav|تعيا بزاف غ تعيا بزاف ك دا راسك انك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1545.wav|ماتعشق دوز الحص تحس بال العيا ولكن ماشي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1546.wav|ذاك العيا فهمتي انا كنخرج وضرب تقريبا
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1547.wav|كيلومتر باش كنشي الطاكسي باش نرجع للدار
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1548.wav|و داير يلا داير كيلومتر باش نرجع باش
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1549.wav|نمشي للدار يعني فهمتي بون كانش واحد اخر
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1550.wav|مايقدرش يديرلك انا عيخ ماقدرش فهم وان
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1551.wav|درت علاش ندخل الدري الصغار لقبل الناس
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1552.wav|ولادهم ول دياليز مسكين وهذ و اما ما
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1553.wav|تخافش مايقلش وك را يبقى عايش به عادي شوف
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1554.wav|انت دي ش حال عطيه كلوه ولا شوف دير مع
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1555.wav|فهمت عندنا دي ان الزراعه باش الوالدين
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1556.wav|يعطيو ماكيز اموش بزاف
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1557.wav|علاش فاش كزرع كي حيدك المناعه باش ترجعلك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1558.wav|باش الكلوه تقبل وداكشي هما فش كيسم حيد
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1559.wav|المناعه خصهم يحي الكمامه عندك يشدو عندك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1560.wav|يتخلو على الدر عندك ديك المناعه فش دير
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1561.wav|يموت خصك تاخذ الريسك الحياه را
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1562.wav|مغامره صعب من سطاج ودوهم كاملين بحال شي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1563.wav|لعبه عندك وده صعب من وحده خصك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1564.wav|دوزه صافي ماشي كلشي كيفكر بحالك كاين ناس
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1565.wav|كيخاف الحمد لله انا ما كخا من الموت خاش
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1566.wav|من غ نموت غنمت دايره بين عيني نق نخرج من
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1567.wav|هنا الطور نموت ف عادي فهمت يعني خصني
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1568.wav|نعرف شنو داير مع الله فهمت ش انا مستعد
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1569.wav|خصني ديما نكون مستعد باش نلقا ديما
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1570.wav|كاندير الله يا ربي الديني تكون راضي عل
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1572.wav|شويه شفت عاوتاني بزاف ديال فاز انا عندي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1573.wav|وهر معيا شفت فيديو ديالك اول مره تصوم
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1574.wav|رمضان تقدر تعود لسب كفاش جات كفاش صمت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1575.wav|وشن الاحساس ديالك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1576.wav|انكت انا
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1577.wav|بقي عمري صمت ال عمري صمت في
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1578.wav|حياتي شنو اللي خلاني نصوم هو ناس اخرين
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1579.wav|مع كان
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1580.wav|صومص يعني كقولك كتشوف ناس اخرين بحالك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1581.wav|كدير شي حاجه يعني وت ماش ديرها ديرها
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1582.wav|داروها ققدر نص قبل ما كت كنشوف ماش كقدر
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1583.wav|نصوم كصوم شي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1585.wav|دييا ك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1586.wav|بخير ح
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1587.wav|الفرحه كت كترك الفرحه
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1588.wav|اني فرحه الكك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1589.wav|فرحت فرحت بنهار نهار واحد فرحت واح
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1591.wav|ماكيش وال يموت اللي بغى يموت يوقع اللي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1592.wav|بغى يوقع ما كبكي ديك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1594.wav|انادي كتجيني شي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1595.wav|حاجه كنقول ان خصني نبكي عليها خ تكون موت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1596.wav|يعني يموت لي شي واحد عزيز كنقول را شكون
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1597.wav|اللي قال بان الموت را
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1598.wav|خيب جا شي واحد ميت قال
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1599.wav|متخي لا ما عرفناش تقدر تكون زوينه تشي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1600.wav|تما تكون شي حاجه زوينه وحنا ما عالمين
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1601.wav|فهمتي ذاكشي كنقول را خصني نفرح لهم انهم
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1603.wav|يتهنا تناو من المشاكل الضغوطات خصهم
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1604.wav|يكونوا هما دايرين مزيان مع سيدي ربي فهمت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1605.wav|اما باش نبكي كتجيني ماكاينش كنحاول ولكن
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1606.wav|ماكينش وال ولكن هذاك النهار كنحس بديك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1607.wav|زعما بقى فيا هذا ولكن البكه لا بكا دموع
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1608.wav|باش يهبط ماكينش دونك اخر مره بكيتي هي في
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1611.wav|وفاش حيدت القبس على
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1612.wav|شن شنو السبب خكك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1613.wav|بس ارب سنين لكن شوف راسي اني ولي مق
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1614.wav|حرفيا بالليله ونهار جمعه تخرج
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1617.wav|وكنشوف انني خديت الريسك و
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1618.wav|وبحال ضربت مع ضد ناس يعني واقفين ضدك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1619.wav|كيقولك لا ماديرش را صعيبه وهذا وكي حرش
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1620.wav|في والديك وهذ وهذ ودرتيه ونجحت بحال ربي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1621.wav|بغاك ترجع عادي بحال بغى يحيد لك النعمه
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1622.wav|ديال رجليك مقاد وعود ردلك باش يحسك بها
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1624.wav|بكيت النجاح ديالك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1625.wav|غير غير تفكيرك يكون ان بعض المرات كنكون
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1626.wav|كنامن بشي حاجه ولكن ماوصلوش لدرجه اليقين
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1627.wav|علاش ماوصلوش لدرجه اليقين اما ماحناش فك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1628.wav|لايت واما كتقول وي ولكن ملي كيدوز
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1629.wav|الاكسبس كتكون كتام بها دا انت كتام
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1630.wav|باللي بصح ال بغك شي حاجه ربيغ يعطيها
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1632.wav|ش وخ تقول تكون مستحيل تبانلك ربي غلك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1633.wav|طريق ال بغك توصل
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1634.wav|لتوصل انا الحمد لله رجلي قاد ب بغ بغاهم
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1636.wav|عندي العميه نهار الاثنين درتك نهار
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1637.wav|الجمعه يعني عنديك عمل على رجلي نيت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1638.wav|العمليه اللي كت غدي على الرجلي من كنت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1639.wav|خدير عليها عمليه درت عل اكسيده ب ربي ما
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1640.wav|بغاني ديك الساعه عندي فهمت بغ نزيد ندوز
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1641.wav|من ديز اكسبيريس
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1642.wav|اخرا وتقبلتها عادي الحمد لله بخير قتلك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1643.wav|سي كنضحك ر تهرس وان
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1644.wav|كنضحك يعني عا حد اللي بقى في اني ما كتش
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1646.wav|الفجر الله بقت في هذ
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1647.wav|بوحده قلتك اللي كص قلت قلت لي خرجتي عل
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1648.wav|اصاحبي مصلي الفجر وانت مهرز
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1649.wav|اهن مطه بحالك وانا جالس شنو قاللك هو ما
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1650.wav|بقاش عارف عارف راس فيك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1651.wav|وداخ اذا قلت لك شنو هو الحلم ديالك عبد
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1652.wav|الرحمن بينك وبين راسك شنو
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1653.wav|هو حاليا الحلم ديالي هو نقدر
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1654.wav|انني زمن نزرع كلو مشش نرجع لحياتي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1655.wav|العاديه وخا هذه حياتي عاديه انا تاقلمت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1656.wav|معها ولكن بغيت نحس بديك الحياه الاولى
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1657.wav|اللي كانت عندي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1659.wav|ن ندير اي حاجه نولي نشرب كما بغيت ناكل
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1661.wav|بغيت شي حواج ماكش تاكل كلشي بالقياس
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1662.wav|عننا عندنا الماء
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1664.wav|هو هو الاشكال ونقدر نسافر في اي بلاصه
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1665.wav|بغيت ما بقش نفكر بغيت نمشي لشي بلاصه اخ
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1666.wav|واش فيها ولا ما
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1667.wav|فيهاش هنا في وسط المغرب خصني نشوف ديما
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1668.wav|بحال النهار اللي مشينا للجبل تقريبا
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1669.wav|ضربنا شي خوا دي الطريق
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1670.wav|الدياليز مشيتي وانت الاكتيفيتي مشيت مشيت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1671.wav|درت الدياليز كان خصك تدي ضروري ضروري خص
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1672.wav|ندي نخن ما يمكنش
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1673.wav|فهش هذا هو الحلم ديالي ان نقدر نقدر
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1674.wav|نزرع ميساج الناس اللي بغيتك تشوف فاس
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1675.wav|كاميرا الناس اللي عطاهم ربي صحتهم وك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1676.wav|يادوها بطريقه من
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1678.wav|الطرق ف الصحه هي واحد الكنز اللي اط لينا
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1679.wav|سيدي ربي وهي نعمه من النعم اللي نعم
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1680.wav|علينا بها
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1681.wav|خصنا نتهلا فيها بحالها بحال
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1683.wav|و ال كنت ك تديها سوا بالكارو سوا بشي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1685.wav|اخرى خصك تشوف الناس اللي اللي ما عندهمش
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1686.wav|بدير الكارو خص تمشي تشوف الناس اللي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1687.wav|عندهم مشكل في الرئه اللي كيمشيو غير غير
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1689.wav|ك تديها بشي حاجه كتشرب تشي تشوف الناس
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1690.wav|ديال الدياليز كيفاش
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1691.wav|عايشين خصك ضرور خصك تهلى فيها واحد
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1692.wav|الكنز اللي ما عمرك تعرفه الا ما مرضتيش
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1693.wav|نهار الليغ تمرض وخ تشدك الدرس عا تعرف
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1695.wav|الصحه هذا ميساج مهم حتاش كين الناس
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1696.wav|اللي يعطينا ننعم الله وما
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1697.wav|كان كتكون بحال قلتي غافلين عليه
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1698.wav|غ فاش كتمشي قل ربي غير ترجعي و ب المرات
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1699.wav|كيكون فات الفوت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1700.wav|وانت قدوه ديالنا نا انك عشتي تجارب وك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1701.wav|التجارب ماثرش فيك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1702.wav|ودابا كدير لاون كون داير بوجي ديالك يعني
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1703.wav|عم عمر المشكل كيخليك انك تحبس تحبس فيشي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1705.wav|ديما النفس عقلك اللي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1707.wav|تكون شاد الفش وقول قادر ان ندير ندير
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1709.wav|فهم ما تخلي حاجه تحبسك اهم حاجه عندي خص
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1710.wav|نتحرك خدمه خصني ندير اي حاجه اي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1711.wav|حاجه كنعرف الناس معدي الدي بنا مع
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1712.wav|الال يعني قباس كدر الديالي طبيب ك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1713.wav|الديال امر المرض ما يحبسك على اي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1714.wav|حاجه مشيت درت العمره وخا كدي الدي مشيت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1715.wav|مع الدراري يحفل البير ك دونك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1716.wav|عمره حط هو اخر حاجه يحبن اي حاجه
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1718.wav|يحبس يحبسني اهم حاجه عن ش انت نظره شي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1719.wav|واح يشوفك باللي مسكين كرك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1720.wav|خاطرك ماشي كرني
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1722.wav|ماتعجبنيش تضرك ماضرني
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1725.wav|مسكين معيا
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1726.wav|يعني نقول تعاطف لكنك مسكين
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1728.wav|واحد اناقش مع الناس على
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1729.wav|مسكين مسكي مسكين
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1730.wav|مسكين يعطيوني
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1731.wav|هذه اللي ماتعجبني ماش المهم الناس متقبله
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1732.wav|من عند قالي شي واحد تقبل منه لكن شي واحد
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1733.wav|بقى يقولها يقوللك الا ما تخليش يهز هذك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1734.wav|را مسكين
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1735.wav|دا خليني نقولك انا ماش
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1736.wav|نزي كشي شي بلا ما تحطك لا هزليه حد حولوا
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1737.wav|من هنا تحول انا دري صغير طربيه حولوا
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1739.wav|الله يهديك فهمتي داكشي ع هذ هذ هي المعنى
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1740.wav|ديال المسكين اما المسكين بال الهضه ضيزه
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1741.wav|ياك اه حيتاش الاختيار الالفاظ خصهم
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1742.wav|يكونوا مهمين مع الانسان حش كيفما قلتي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1743.wav|والديك هما سيبور ديالك اه هما ماكي حسوك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1744.wav|باللي انك انت مريض نلا واش هذا الشي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1745.wav|قراوه ولا غير من من ذاته من راسهم واش
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1746.wav|كيفاش حى انا ماخليهم ح جات من عندك ح حى
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1747.wav|انا ماخليهم يبي لهمي مريض
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1748.wav|واحد مريض كيجري
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1750.wav|بالقريض شن هي احسن حاجه طلك في الطفوله
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1751.wav|ديالك ومازال عاقل
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1753.wav|مزيان انا كنت كطير صفي كت كطير ديال الص
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1755.wav|كيفاش حركت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1757.wav|علاش هزيت البريك تخرج الف كنعل وطفي كنعل
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1758.wav|وطفي كنش
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1759.wav|ترجع خل ورجع دخل شنو قالك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1760.wav|والديكي تهلاو في
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1761.wav|الله اخويا
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1762.wav|مزيان ولكن شنو واش كنتوا انتما فيشي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1763.wav|بلاصه فيشي شي عرببيه ولا كنت لا كانت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1764.wav|عندنا بحال واحد البلاصه ديالنا كبيره
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1765.wav|فهمتي بحال الفيرمه كبيره ديالنا فهمتي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1766.wav|وانت جيتي كطير وشي حاجه واحده اخرى تصغر
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1769.wav|لا انا كاندي العافيه بزاف كنت كحرق بزاف
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1770.wav|كنتز يعني انت كنت كتلعب بالمين بزاف فيشي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1774.wav|الرحمن والمحبه ديال
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1775.wav|الناس حواجز تق تقولي احسن ميساج وصلك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1777.wav|واحد البنت قالت لي جدي مسكين كان باغي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1779.wav|للعمره يمشي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1780.wav|للعمره منهار دي وحنا كنمشي وجي يمشي مع
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1781.wav|اكتشف الفيديو ديالك يمشي السمان وا هذه
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1783.wav|بزاف هذ عجبني هذا
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1784.wav|الميساج باش حسيتي قريت احسب ذاكشي مشيت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1785.wav|زعما من غير انني درت العمر وكشي ذاكشي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1787.wav|صورت اللي صورت على قبله انا درت الفيديو
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1788.wav|على قبل القضيه باش بنادم يتشجع ويجي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1790.wav|وصلتلي يجي غير واحد ولا جوج باركه عل
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1791.wav|صافي وصلت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1792.wav|لكيش درت ع الفيديو
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1793.wav|وصلتي عبد الرحمن كان قدامك عبد الرحمن ش
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1795.wav|تقول ت الله
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1796.wav|في كفاش
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1800.wav|منيج لعبد الرحمن
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1804.wav|الطريق فيديو اللي غادي بيهم الصحاب
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1806.wav|عجبان ش انت عمرك ختلك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1807.wav|صحابك يمكن كحسب صحابي انا ماشي صحاب
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1809.wav|يعني انت كنت كحابك وه اصحابك وه صحابي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1810.wav|شنو شن هي الصحبه بالنسبه لك الصحبه
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1811.wav|ايكون معك راجل باش انا بحال
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1812.wav|زيد زيد عرفت مده قصيره لكن دوزت مع 15
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1813.wav|يوم ديال العمره عمري غسا علا شنو كان
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1814.wav|الفرق بحال خويا خويا خويا ماشي بحال شي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1815.wav|واحد يلا كنعرفو ولا شي انفلونس غادي معه
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1816.wav|لا ماكش بناتنا كع ذاك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1817.wav|حزات ما كانش كان خويا وص
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1818.wav|كان نخرج نضحكوا نشطوا ماكينش بناتنا شي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1819.wav|حاجه فهمتي كيخاف عي هو اثر مني ماخفش على
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1821.wav|خليني نقول
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1822.wav|خويا صحبا انكون مواقف واش ك تمن بالصحبه
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1823.wav|انها خصها تكون وقت طويل ولا لا
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1824.wav|زيد ما عرفتوش بزاف دي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1825.wav|الوقت معرف بزاف الوقت وسبحان الله دغيا
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1826.wav|داز الكونك بناتنا وشرنا ونا
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1827.wav|بخير دخلني
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1828.wav|لدارهم يعني هذ
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1830.wav|اعطيك كلمات عبد الرحمن دال ديالها
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1832.wav|لك العائله بالنسبه لك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1835.wav|يرشك انا مخاصم معلا مخاص مع خالي ماديش
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1836.wav|معهم عائله الوالد عندي مع كلشيي على كلشي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1837.wav|وبغي كلشي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1841.wav|اللهج الله يخليهم ل
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1842.wav|كان من بعد الله وم
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1845.wav|بوحدي مع راسك علاش المشاكل فجيم يحل
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1848.wav|راسي ماخليش نفهم كيبغي يعود لقول خليه
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1852.wav|الرحمن الوقت بالنسبه لي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1853.wav|انا وقت كيطير الوقت هو العمر كل ما كيدوز
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1854.wav|الوقت كل ما كدوز العمر
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1855.wav|كل ما نقص نهار من عمري شوف شنو درت فيه
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1856.wav|مشش من الناحيه الدنيويه الناحيه ديال
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1857.wav|الاخره شنو درت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1859.wav|اهم حاجه عندي فهم حيد علي انا الفلوس
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1860.wav|شحال دخ والله
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1861.wav|ماهمي نعس خصني نشوف شنو
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1862.wav|درت درت كلشي على اكمل وجه ولا لا ك درتس
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1864.wav|ماش مرت هذ هذ هي الوقت بالنسبه لي كل ما
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1865.wav|كيدوز الوقت كل ما خصني نكون جمعت في
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1867.wav|اكثر الابتلاء بالنسبه
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1868.wav|لك ابتلاء و بالنسبه لي نعمه اكثر من
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1869.wav|نقبه النعمه اللي قربتني الله
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1870.wav|وعطتني المحبه ديال الناس وعطتني بزاف
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1871.wav|ديال الحوايج خذت مني حوايج ولكن عطاتني ب
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1872.wav|انا كنشوف ذاكشي كع نشوف الايجابيات كشوف
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1873.wav|السلبيات السلبيات را كاينين كاينين نشوف
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1874.wav|الايجابيات ديال ونحاول نعاود نزيد ناخذ
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1876.wav|الاجابيات الموت بالنسبه لعبد
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1877.wav|الرحمن الموت مكتابه مكتابه جايه
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1878.wav|جايهي غدا خصني نخدم عليها ذاكشي علاش انا
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1879.wav|مستعد لها ان شاء الله انت مستعد مستعد
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1880.wav|لها ماخفش
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1881.wav|خفش خنا حسن الخات ان شاء
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1883.wav|جميلله يخليك ديما ضحك امين يا ربي الله
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1884.wav|يحفظك عبد الرحمن السؤال الاخير ديالي في
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1885.wav|البودكاست م واش انت شش ارتاحيتي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1886.wav|معان راح تحيت
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1887.wav|بزاف تحي بوجك عيل مرحبا بك مرحبا بك كان
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1888.wav|شرف اني نسمع القصه ديالك الله يحفظك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1889.wav|مساجكس المرتاح
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1890.wav|راق الصراحه الكونسبت دي المرتاح رافيق
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1891.wav|كان كونسيبت زوين بزاف وكمل فيه ح ك
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1892.wav|تخلينا نستافد من الضيوف اللي كتجيب والله
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1894.wav|ك شي حاجه في الدنيا تخليني نوصل اني نفكر
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1896.wav|السكت كيحل بزاف المشاكل كتكت وتخلي
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1897.wav|العاصفه تدوز انت كتخا انا كنخاف بزاف
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1898.wav|كنخاف بزاف انا كريسي بواحد الطريقه ما
+C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_1899.wav|تخيلها فاش كنكون وسط الناس ما كعرف كباني
