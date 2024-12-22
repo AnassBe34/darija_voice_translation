@@ -1,0 +1,17 @@
+yt-dlp==2024.11.04
+pydub==0.25.1
+youtube-transcript-api==0.6.3
+pandas==2.2.3
+datasets==3.2.0
+transformers==4.47.1
+ipython==8.30.0
+numpy==2.0.2
+torch==2.5.1
+accelerate==1.2.1
+audioread==3.0.1
+huggingface-hub==0.27.0
+librosa==0.10.2.post1
+scikit-learn==1.6.0
+scipy==1.14.1
+torchaudio==2.5.1
+streamlit==1.41.0
