@@ -1,19 +1,13 @@
 # Darija Voice Translation
 
-This project provides a comprehensive solution for transcribing and translating Darija (Moroccan Arabic) audio into text. It consists of two main components:
+This project transcribes and translates Darija (Moroccan Arabic) audio into text with two main components:
 
-## 1. Audio Transcription Model
-Uses the `Wav2Vec2-large-XLSR-53` model, a state-of-the-art model for speech recognition, to transcribe Darija audio into accurate text.
+1. **Audio Transcription Model**:Utilizes the Wav2Vec2-large-XLSR-53 model, a state-of-the-art model for speech recognition, fine-tuned on a Darija Dataset, to transcribe audio into accurate text.
+2. **Translation Model**: Leverages a fine-tuned version of Helsinki-NLP/opus-mt-ar-en, trained on the None dataset, to translate the transcriptions from Darija into English.
 
-## 2. Translation Model
-Leverages a fine-tuned version of `Helsinki-NLP/opus-mt-ar-en`, trained on the `None` dataset (`darija-latin-to-english-new`), to translate the transcriptions from Darija into English.
+The repository also includes essential tools for collecting data from YouTube videos, including audio and their corresponding transcriptions based on video timestamps. It offers scripts for cleaning, transforming, and organizing the data to make it suitable for training and fine-tuning the the Wav2Vec2-large-XLSR-53 model.
 
-## Data Collection and Preparation
-The repository includes essential tools for collecting data from YouTube videos, including audio and their corresponding transcriptions based on video timestamps. It offers scripts for cleaning, transforming, and organizing the data to make it suitable for training and fine-tuning the models.
-
-## Simple App
-A simple app is provided that enables users to upload audio files and receive both transcriptions and translations in a straightforward interface.
-
+A simple app is also provided that enables users to upload audio files and receive both transcriptions and translations in a straightforward interface.
 
 ---
 
@@ -37,10 +31,15 @@ A simple app is provided that enables users to upload audio files and receive bo
    ```bash
    git clone https://github.com/AnassBe34/darija_data_preprocessing.git
 2. Or you can download it manually.
-
+3. Navigate into the project directory:
+   ```bash
+   cd darija_data_preprocessing
+4. Install the required libraries using pip and the requirements.txt file:
+   ```bash
+   pip install -r requirements.txt
 ## Authors
 
-This project is part of the Darija Speech Recognition initiative and is maintained by Anass Benamara and Hossam Tabsissi.
+This project is developed and maintained by Anass Benamara and Hossam Tabsissi
 
 ## Contact 
 
