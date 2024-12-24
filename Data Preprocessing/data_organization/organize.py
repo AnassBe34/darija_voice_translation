@@ -2,6 +2,7 @@ import os
 from pydub import AudioSegment
 
 f = open('test.txt', 'w', encoding="utf-8")
+f.write('path|transcript\n')
 for chunk_index in range(1500, 1900) :
     audio_path = fr"C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_{chunk_index}.wav"
     transcription_path = fr"C:\Users\ASUS\Desktop\dataset\dataset_0\audio_chunk_{chunk_index}.txt"
