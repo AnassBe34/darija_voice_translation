@@ -11,20 +11,6 @@ A simple app is also provided that enables users to upload audio files and recei
 
 ---
 
-## Features
-
-### **1. Data Collecting And Transforming**
-- **`collect.py`**: Downloads audio files from YouTube, converts their sampling rate to 16 kHz, and splits them into chunks based on the transcription timestamps provided by the video. Each chunk is associated with its corresponding transcription, and the downloaded chunks are stored in a dataset folder within the same project repository.
-
-### 2. Data Cleaning 
-- **`delete_extremities.py`**: Removes the extremities of each full audio to reduce misalignments.
-- **`delete_long_audios.py`**: Deletes audio chunks longer than 6 seconds to facilitate model training.
-- **`one_word_audios.py`**: Removes audio chunks containing only one word, as they are prone to misalignment.
-- **`remove_0_sec_audios.py`**: Deletes audio chunks with 0 seconds duration, which are typically disaligned.
-- **`remove_music_audios.py`**: Filters out audio chunks with background music, as it is considered noise for the model during training.
-
----
-
 ## Installation
 
 1. Clone the repository:
@@ -37,6 +23,28 @@ A simple app is also provided that enables users to upload audio files and recei
 4. Install the required libraries using pip and the requirements.txt file:
    ```bash
    pip install -r requirements.txt
+---
+## Repository Overview
+
+This repository is mainly composed of three parts:
+
+### 1. Data Preprocessing
+In this part, we focus on collecting raw data from YouTube, consisting of long audios with their corresponding transcriptions. We clean and transform this raw data into a format that is trainable for the Wav2Vec2 model.
+
+### 2. Fine-Tuning
+In this part, we fine-tune the Wav2Vec2 model on the dataset collected and cleaned in the previous step.
+
+### 3. Final Project App
+In this part, we build a simple app that combines:
+- The fine-tuned Wav2Vec2 model trained on a Darija dataset.
+- A translation model that translates Darija text into English. This is a fine-tuned version of `Helsinki-NLP/opus-mt-ar-en` on the None dataset.
+
+---
+
+## Notes
+1. Ensure you update the dataset paths and YouTube video links to your own before running the scripts.
+2. If you want to fine-tune the Wav2Vec2 model on your own data, you can skip the data collection scripts but focus on the cleaning scripts for better results.
+
 ## Authors
 
 This project is developed and maintained by Anass Benamara and Hossam Tabsissi
