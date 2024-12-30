@@ -19,7 +19,7 @@ A simple app is also provided that enables users to upload audio files and recei
 2. Or you can download it manually.
 3. Navigate into the project directory:
    ```bash
-   cd darija_data_preprocessing
+   cd darija_voice_translation
 4. Install the required libraries using pip and the requirements.txt file:
    ```bash
    pip install -r requirements.txt
